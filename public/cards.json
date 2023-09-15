@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co/wYFdfXC/Rectangle-2-2.png",
+    "title": "Introduction to C Programming",
+    "description": "Learn C programming. From Basics, variables, data types, loops, conditions, functions.",
+    "price": 49.99,
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co/zH7QVHy/Rectangle-2-3.png",
+    "title": "Introduction to Algorithms",
+    "description": "Master algorithm with our course. Efficient problem-solving for programmers.",
+    "price": 59.99,
+    "credit": 4
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co/1qrprJb/Rectangle-3.png",
+    "title": "Learn Basic of Data Structures",
+    "description": "Essentials of data structures.This course covers all basic of Data structure.",
+    "price": 39.99,
+    "credit": 2
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co/1TwJJhN/Rectangle-2.png",
+    "title": "Python for Beginner to Advance",
+    "description": "Start your coding journey with Python. Basics, loops, functions, and OOP concepts.",
+    "price": 29.99,
+    "credit": 2
+  },
+  {
+    "id": 5,
+    "cover_img": "https://i.ibb.co/k61FhtM/Rectangle-3-1.png",
+    "title": "Explore AWS, Cloud Computing",
+    "description": "Explore AWS and cloud computing fundamentals in this comprehensive course.",
+    "price": 49.99,
+    "credit": 10
+  },
+  {
+    "id": 6,
+    "cover_img": "https://i.ibb.co/PCTWSxX/Rectangle-2-5.png",
+    "title": "Java Programming Essentials",
+    "description": "Dive into Java.Learn all Essential skills, OOP, build applications with java.",
+    "price": 54.99,
+    "credit": 3
+  },
+  {
+    "id": 7,
+    "cover_img": "https://i.ibb.co/GMjWPGF/Rectangle-2-1.png",
+    "title": "Database (MySQL)",
+    "description": "Master MySQL database management: design, query, and optimize. Unlock the power of data-driven applications.",
+    "price": 59.99,
+    "credit": 4
+  },
+  {
+    "id": 8,
+    "cover_img": "https://i.ibb.co/CnKj7cZ/Rectangle-2-4.png",
+    "title": "Introduction to C++ for DSA",
+    "description": "Explore C++ for Data Structures and Algorithms. Master the language essentials with this course",
+    "price": 69.99,
+    "credit": 5
+  },
+  {
+    "id": 9,
+    "cover_img": "https://i.ibb.co/kH8BVdb/Rectangle-2-6.png",
+    "title": "Advanced Database Management",
+    "description": "Level up database skills. Query optimization, indexing, transactions and much more.",
+    "price": 64.99,
+    "credit": 4
+  }
+]
